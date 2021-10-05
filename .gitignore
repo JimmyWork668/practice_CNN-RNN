@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Jie update
+__pycache__/
+*.pyc
+notes/
+*_env/
+*_env*/
+*.DS_Store
