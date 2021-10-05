@@ -1,0 +1,13 @@
+P78    3.7.2节“注4”
+本书GitHub库网址：https://github.com/SethHWeidman/DLFS_code/blob/master/03_dlfs/Code.ipynb
+
+P113    5.2.4（原书附带网址）
+Geoffrey Hinton于2014年在Reddit AMA上发表的原帖地址为：https://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton
+注5    何恺明等人于2017年发表的关于ResNet 的原始论文“Deep Residual Learning for Image Recognition”一文网址：
+         https://arxiv.org/pdf/1512.03385.pdf
+注6    David Silver等人于2017年发表的“Mastering the Game of Go Without Human Knowledge”一文网址：
+         https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ
+
+P132    6.1节“注3”
+Daniel Sabinasz博客“deep ideas”网址：https://www.deepideas.net
+
